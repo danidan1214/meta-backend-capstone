@@ -1,0 +1,69 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+
+# Ignore migrations folder
+**/migrations/
+
+# Static files
+staticfiles/
+static/
+*.css
+*.img
+
+# Media files
+media/
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+.virtualenv/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+nosedir/
+coverage.xml
+*.cover
+.hypothesis/
+*.coveragerc
+*.pylintrc
+
+# IDE settings
+.vscode/
+*.code-workspace
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+
+# Ignore database files
+db.sqlite3
